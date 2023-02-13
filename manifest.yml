@@ -1,0 +1,5 @@
+applications:
+  - name: ascl-autolite-ui
+    memory: 128M
+    buildpack: staticfile_buildpack
+    path: dist/ascl-autolite-ui
